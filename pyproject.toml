@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "kt-otm"
-version = "0.1.0"
+version = "0.2.0"
 description = "Calcula os strikes fora do dinheiro"
 authors = ["Valmir Franca <vfranca3@gmail.com>"]
 license = "GPL-2.0-only"
